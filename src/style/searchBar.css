@@ -1,0 +1,16 @@
+#searchBarContainer {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inputSearch {
+    background-color: #fffffe;
+    color: #0f0e17;
+    border: none;
+    outline: none;
+    padding: 8px;
+    border-radius: 8px;
+}
